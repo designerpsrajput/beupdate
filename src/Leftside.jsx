@@ -18,8 +18,7 @@ const Leftside = (props) => {
                                 menuclass={menuItems.menuclass}
                             />
                         );
-                    })}
-                />
+                    })} 
            </div> 
         </>
     );
